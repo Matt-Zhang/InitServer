@@ -8,6 +8,7 @@ syntax on
 
 
 let Tlist_Ctags_Cmd='/usr/local/bin/ctags' 
+set backspace=2
 set hidden
 set autoindent
 set shiftwidth=4
